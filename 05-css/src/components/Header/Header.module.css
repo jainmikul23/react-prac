@@ -1,0 +1,17 @@
+.head {
+    margin: 5px auto;
+    padding: 0 20px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid burlywood;
+    border-radius: 19px;
+    height: 70px;
+    /* width: 100px; */
+    color: white;
+  }
+  .logo{
+    text-decoration: dotted;
+    
+  }
